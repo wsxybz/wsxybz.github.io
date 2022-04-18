@@ -1,4 +1,5 @@
 # 欢迎来到依扬团队
+（点击蓝色文字跳转链接）
 
 我们的B站账号 [依扬](https://space.bilibili.com/399892611?spm_id_from=333.337.search-card.all.click)欢迎关注！
 
