@@ -1,30 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到小羊宝正的个人网站
 
-You can use the [editor on GitHub](https://github.com/wsxybz/wsxybz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+我们的B站账号 [依扬](https://space.bilibili.com/399892611?spm_id_from=333.337.search-card.all.click)欢迎关注！
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 关于依扬
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们是做什么的呢？
 
-```markdown
-Syntax highlighted code block
+我们是一群拥有创造力的一群学生我们的做的事包括但不限于独立游戏和音乐
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
