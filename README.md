@@ -7,7 +7,8 @@
 ## 关于依扬
 
 我们团队的logo
-![我们的logo](/blob/main/依扬logo.jpg)
+![依扬logo](https://user-images.githubusercontent.com/103907070/163739302-2e114123-25f0-4a41-a8ee-3521ee2dc550.jpg)
+
 
 #### 我们是做什么的呢？
 
